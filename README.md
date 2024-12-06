@@ -1,1 +1,1 @@
-# Energy-Efficient-Scheduling-Variable-Consumption
+# Energy-Efficient-Scheduling-Variable-Consumption-Functions
