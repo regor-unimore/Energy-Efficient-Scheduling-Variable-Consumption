@@ -1,1 +1,1 @@
-# Energy-Efficient-Scheduling-Variable-Consumption-Functions
+# On incorporating variable consumption functions within energy-efficient parallel machine scheduling
